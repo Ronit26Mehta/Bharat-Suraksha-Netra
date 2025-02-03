@@ -1,7 +1,7 @@
 
 
 
-# 🔒 **Bharat Suraksha Netra**
+# 🔒 **Bharat Suraksha Netra   The RakShak**
 
 ## 🚀 Overview
 **Bharat Suraksha Netra** is an advanced **cybersecurity platform** designed to assist **Indian Public Sector Banks (PSBs)** in detecting and mitigating **malicious/phishing domains**. This system leverages **machine learning, deep learning, and advanced feature extraction techniques** to enhance security and expedite threat analysis.
