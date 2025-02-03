@@ -93,6 +93,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📧 Contact
-For inquiries, contact: 📩 **[your-email@example.com](mailto:your-email@example.com)**
 
